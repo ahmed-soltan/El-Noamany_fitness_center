@@ -674,7 +674,7 @@ p{
         overflow-x: hidden;
     }
     .contact .right form{
-        padding:35px 0px;
+        padding:35px 0px 60px;
     }
     .contact .right form .message span{
         position: absolute;
