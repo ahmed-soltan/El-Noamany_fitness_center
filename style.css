@@ -480,10 +480,10 @@ p{
     }
     .row .col div h4{
         margin: 5px 0;
-        font-size: 20px;
+        font-size: 16px;
     }
     .row .col div p{
-        font-size: 16px;
+        font-size: 12px;
     }
     .team .container{
         margin: 0;
@@ -492,7 +492,7 @@ p{
         font-size: 14px;
     }
     .body ul li{
-        font-size: 18px;
+        font-size: 16px;
     }
     .body{
         width: 100%;
@@ -538,7 +538,7 @@ p{
     }
     .row .col div h4{
         margin: 5px 0;
-        font-size: 16px;
+        font-size: 14px;
     }
     .row .col div p{
         font-size: 12px;
