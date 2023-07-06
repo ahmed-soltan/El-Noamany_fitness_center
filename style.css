@@ -497,10 +497,9 @@ p{
         width: 350px;
         padding: 0 10px;
         text-align: center;
-        font-size: 12px;
     }
     .testimonials div p{
-        font-size: 8px;
+        font-size: 11px;
     }
     .testimonials{
         display: flex;
