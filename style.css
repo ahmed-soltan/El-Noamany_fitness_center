@@ -424,19 +424,6 @@ p{
     .row .col div img{
         min-width: 100%;
     }
-    .row .col div h4{
-        margin: 5px 0;
-        font-size: 30px;
-    }
-    .row .col div p{
-        font-size: 20px;
-    }
-    .body ul li{
-        font-size: 25px;
-    }
-    .team .container p{
-       font-size: 22px;    
-    }
     .testimonials div img{
         width: 100%;
     }
